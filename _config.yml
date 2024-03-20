@@ -16,10 +16,10 @@ timezone:
 
 # title: # Wasikur Rahman # the main title
 
-tagline: Welcome to my personal webpage.. # it will display as the sub-title
+tagline: Data Scientist @ Orbund | AUST Alumnus # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I'm a data scientist located in Bangladesh.
+  I'm a data scientist based in Bangladesh, passionate about using data to solve problems and create impactful solutions.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
